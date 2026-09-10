@@ -1,0 +1,1 @@
+Test content with special characters: 😊, ©, ™, and more! This is to test the encoding.
